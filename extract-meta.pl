@@ -44,10 +44,10 @@ foreach my $file (@files) {
 
 
         ## use this to see all metadata
-        foreach (sort keys %$info) {
-            print STDERR "$_ => $$info{$_}\n";
-        }
-        #print "\n";
+        #foreach (sort keys %$info) {
+        #print STDERR "$_ => $$info{$_}\n";
+        #}
+        #print STDERR "\n";
     }
 }
 $template->param(POINT => \@places);
