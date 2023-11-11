@@ -18,10 +18,15 @@ my @files = readdir($dh);
 closedir($dh);
 
 my(@places);
+my $new_width = 450;
 foreach my $file (@files) {
     if($file =~ /\.(jpg|JPG|jpeg)$/) {
         #print "$dir/$file\n\n";
         my $info = $exif_t->ImageInfo("$dir/$file");
+
+        my $height = $$info{'ImageHeight'};
+        my $width = $$info{'ImageWidth'};
+        my $new_height = $new_width * ($height / $width);
 
         ## 47 deg 12' 6.39" N	
         my @lat = $$info{'GPSLatitude'} =~ /^([0-9]+)\s+deg\s+([0-9]+)\'\s+([0-9]+\.[0-9]+)\"\s+[NSEW]$/;
@@ -34,14 +39,14 @@ foreach my $file (@files) {
         #my $lon = $$info{'GPSLongitude'};
 
         #print "$url/$file\t$lat\t$lon\n";
-        my $desc = "Possible UXO. " . $$info{'GPSLatitude'} . ", " . $$info{'GPSLongitude'} . "";
-        push(@places, { URL => "$url/$file", COORDS => "$lon, $lat", NAME => $desc });
+        my $desc = "Hazard";
+        push(@places, { URL => "$url/$file", COORDS => "$lon, $lat", NAME => $desc, HEIGHT => $new_height, WIDTH => $new_width });
 
 
         ## use this to see all metadata
-        #foreach (sort keys %$info) {
-        #print "$_ => $$info{$_}\n";
-        #}
+        foreach (sort keys %$info) {
+            print STDERR "$_ => $$info{$_}\n";
+        }
         #print "\n";
     }
 }

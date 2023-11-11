@@ -4,7 +4,7 @@
     <TMPL_LOOP NAME=POINT>
     <Placemark>
       <name><TMPL_VAR NAME=NAME></name>
-      <description><![CDATA[<div ><img width=400 height=400 src="<TMPL_VAR NAME=URL>"></div>]]></description>
+      <description><![CDATA[<a href="<TMPL_VAR NAME=URL>"><img width=<TMPL_VAR NAME=WIDTH> height=<TMPL_VAR NAME=HEIGHT> src="<TMPL_VAR NAME=URL>"></a>]]></description>
       <Point>
         <coordinates><TMPL_VAR NAME=COORDS></coordinates>
       </Point>

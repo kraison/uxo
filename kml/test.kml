@@ -3,1106 +3,170 @@
   <Document>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 1' 42.38" N, 32 deg 31' 16.48" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/3E0C489E-3836-4EE0-9541-21D2258D322B.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/3E0C489E-3836-4EE0-9541-21D2258D322B.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/3E0C489E-3836-4EE0-9541-21D2258D322B.jpg"></a>]]></description>
       <Point>
         <coordinates>32.5212444444444, 47.0284388888889</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.25" N, 33 deg 8' 16.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7A7ED21B-CCBD-4EC0-A6DF-2C686BB1F6FD.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/7A7ED21B-CCBD-4EC0-A6DF-2C686BB1F6FD.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/7A7ED21B-CCBD-4EC0-A6DF-2C686BB1F6FD.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1379305555556, 47.2014583333333</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.84" N, 33 deg 8' 20.59" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/26BCC23E-D930-4F3A-A5FC-D7BEC804E865.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/26BCC23E-D930-4F3A-A5FC-D7BEC804E865.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/26BCC23E-D930-4F3A-A5FC-D7BEC804E865.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1390527777778, 47.2013444444444</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.90" N, 33 deg 8' 19.08" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/13505680-5F60-4D74-A039-C6B9FEDD1A3E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386333333333, 47.2005277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.09" N, 33 deg 7' 51.47" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1F4976B3-71B7-49B4-B919-3FA4380ACBCF.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1309638888889, 47.2003027777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.79" N, 33 deg 8' 21.66" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/CDA17699-2974-4135-B6D0-5B18462CE6D6.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.13935, 47.200775</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.95" N, 33 deg 8' 20.74" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/822281C5-0F2F-4CB0-B20B-B98F02EA4DAB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1390944444444, 47.201375</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.91" N, 33 deg 7' 49.51" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A887021E-BF1B-4371-B0BE-F52CEB35E804.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1304194444444, 47.2002527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.25" N, 33 deg 8' 16.78" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9E874FD4-A62D-4F8B-A47C-5A80845F229F.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1379944444444, 47.2014583333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.27" N, 33 deg 7' 51.86" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/56C10A2D-AD6D-4A45-AA1D-1F180EE31D4E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310722222222, 47.2003527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.25" N, 33 deg 8' 21.16" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1F486FC1-D808-4F56-A679-5CC216857DBF.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392111111111, 47.2009027777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.36" N, 33 deg 8' 18.94" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A9D59A49-56F0-4846-8492-607F2361933E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1385944444444, 47.2014888888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.32" N, 33 deg 7' 51.04" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/4FDF429C-E1F3-434A-844B-1EAB7B7E2B2D.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308444444444, 47.2003666666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.15" N, 33 deg 7' 50.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/FA003C71-4CE7-4668-850C-5F29C4176E75.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307083333333, 47.2003194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.26" N, 33 deg 7' 51.70" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/53C4D60A-E573-4333-B4FB-846A7A828C4C.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310277777778, 47.20035</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.20" N, 33 deg 8' 22.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/CC355865-0981-4A16-8558-C3ADA465B6E8.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/CC355865-0981-4A16-8558-C3ADA465B6E8.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/CC355865-0981-4A16-8558-C3ADA465B6E8.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1395972222222, 47.2011666666667</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.02" N, 33 deg 8' 19.46" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/DFD8AC1E-5F24-4E65-A923-D777DF7F0CAE.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1387388888889, 47.2005611111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.83" N, 33 deg 8' 19.11" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8DFDC4E2-E10C-4B73-9241-30FE1FE224EE.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/8DFDC4E2-E10C-4B73-9241-30FE1FE224EE.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/8DFDC4E2-E10C-4B73-9241-30FE1FE224EE.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1386416666667, 47.2005083333333</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 7.39" N, 33 deg 8' 20.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/AB6EDD96-B982-419D-B51C-967E5E260E4F.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1390416666667, 47.2020527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.42" N, 33 deg 8' 18.90" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/3FD2422B-03C5-4F4D-AF52-5B1BCE456042.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/3FD2422B-03C5-4F4D-AF52-5B1BCE456042.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/3FD2422B-03C5-4F4D-AF52-5B1BCE456042.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1385833333333, 47.2015055555556</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.48" N, 33 deg 7' 51.95" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/4AC13AE3-97B7-430D-9BAE-62DD74666F85.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310972222222, 47.2001333333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.18" N, 33 deg 7' 50.92" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/685C18A4-CF99-4DB9-B735-AF19537EE4DF.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308111111111, 47.2003277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.08" N, 33 deg 7' 51.11" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/20A03FA6-DDB2-45A2-B0F8-3B8AB6C2027C.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308638888889, 47.2003</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.34" N, 33 deg 7' 51.14" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/46DB95D5-CE0E-48F2-86FF-29D5248B3A88.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308722222222, 47.2003722222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.20" N, 33 deg 8' 22.80" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/39A05FD6-1E1F-4B39-9794-A577F8B65D0E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1396666666667, 47.2011666666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.18" N, 33 deg 8' 16.83" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/BA00B21C-227E-4141-94AE-C961E8A94C78.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1380083333333, 47.2014388888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.79" N, 33 deg 7' 49.61" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/94395F5A-BB4F-4F96-9461-16A6F969E238.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1304472222222, 47.2002194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.36" N, 33 deg 7' 51.42" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/2EC00AC0-C0EC-4424-91E3-7FBDFC2AECC7.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.13095, 47.2003777777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.34" N, 33 deg 8' 21.54" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/73F42B99-136A-4BE3-9C78-98D0E4BBD0E1.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393166666667, 47.2009277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.68" N, 33 deg 8' 20.70" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/295C83FE-8314-440C-AC02-9F0FB9CA6D71.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1390833333333, 47.2013</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 8.03" N, 33 deg 8' 21.63" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7C274BC4-B061-4503-94B4-62E12BA07DC6.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/7C274BC4-B061-4503-94B4-62E12BA07DC6.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/7C274BC4-B061-4503-94B4-62E12BA07DC6.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1393416666667, 47.2022305555556</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.20" N, 33 deg 8' 16.59" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/3CE0AF09-0A19-484E-84E9-CE3B4DC2C09A.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/3CE0AF09-0A19-484E-84E9-CE3B4DC2C09A.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/3CE0AF09-0A19-484E-84E9-CE3B4DC2C09A.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1379416666667, 47.2014444444444</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.04" N, 33 deg 7' 50.79" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8ED760E1-A446-4E8B-B7AF-2688C4DBDA51.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.130775, 47.2002888888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.02" N, 33 deg 8' 22.67" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/09D4A20B-CBA3-44D3-A66A-598471DEE2C8.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1396305555556, 47.2011166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.03" N, 33 deg 7' 50.68" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/EA7A404B-B5AF-432E-A9DD-37A0D85CED5C.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307444444444, 47.2002861111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.00" N, 33 deg 7' 50.32" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1BF2D3B6-FD5D-4C56-A773-7E110811891F.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306444444444, 47.2002777777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.22" N, 33 deg 7' 51.26" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/0CDB9A3E-ECBF-4BC4-9D6D-A7044BD098BC.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/0CDB9A3E-ECBF-4BC4-9D6D-A7044BD098BC.jpg"><img width=450 height=337.5 src="https://www.bluestarsunflower.org/uxo/0CDB9A3E-ECBF-4BC4-9D6D-A7044BD098BC.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1309055555556, 47.2003388888889</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.84" N, 33 deg 8' 17.91" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C91E9FC2-9F62-4BA1-885C-95B25C89E79E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1383083333333, 47.2013444444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.88" N, 33 deg 7' 50.47" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/21C8BD6D-7611-4049-A539-3C34933D9B12.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306861111111, 47.2002444444445</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.08" N, 33 deg 7' 51.29" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A50A6EEF-85D6-44F2-868A-9349D7A33FC3.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1309138888889, 47.2003</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.29" N, 33 deg 7' 50.86" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B2B1BBEE-5E4C-42B0-9ACD-1209BFF4B8B2.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307944444444, 47.2003583333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.67" N, 33 deg 8' 20.00" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8AE80085-248F-421E-8CE6-A5C2453F3DD1.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1388888888889, 47.2012972222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.54" N, 33 deg 7' 52.46" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A34EC01E-C8B3-4C93-B9EB-2CFD4101FE49.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1312388888889, 47.20015</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.26" N, 33 deg 8' 21.38" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/89C8A969-5E34-48A2-B29F-82C7ECDE97F5.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392722222222, 47.2009055555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.90" N, 33 deg 8' 20.77" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/21480981-2428-4D33-B342-5A5B6875F5F3.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1391027777778, 47.2013611111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.02" N, 33 deg 8' 19.29" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A5F330F9-04A6-4014-AD35-C00A37072F2F.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386916666667, 47.2008388888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.96" N, 33 deg 8' 19.49" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A110883A-6ED4-4167-B4EB-5732A536AF11.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1387472222222, 47.2005444444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.00" N, 33 deg 7' 50.58" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/BEAE5621-2A88-4E09-B220-FF3065F78D75.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/BEAE5621-2A88-4E09-B220-FF3065F78D75.jpg"><img width=450 height=337.5 src="https://www.bluestarsunflower.org/uxo/BEAE5621-2A88-4E09-B220-FF3065F78D75.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1307166666667, 47.2002777777778</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.31" N, 33 deg 8' 22.50" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/6F498448-8234-4BB0-89A2-54147369237B.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395833333333, 47.2011972222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.35" N, 33 deg 7' 51.33" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/2BCFE3BC-A0CB-43A6-85E4-CE31E32359E8.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/2BCFE3BC-A0CB-43A6-85E4-CE31E32359E8.jpg"><img width=450 height=337.5 src="https://www.bluestarsunflower.org/uxo/2BCFE3BC-A0CB-43A6-85E4-CE31E32359E8.jpg"></a>]]></description>
       <Point>
         <coordinates>33.130925, 47.200375</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.76" N, 33 deg 7' 49.29" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A3C145DE-E4E0-4F8F-8896-7F43FCCF9F6E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1303583333333, 47.2002111111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.20" N, 33 deg 7' 51.15" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/48BC44F2-0DC4-4C86-B94F-8664EDF1210B.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.130875, 47.2003333333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.79" N, 33 deg 7' 49.56" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/6D4C01AF-C63E-41E0-BB28-26A49DD4A4D9.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1304333333333, 47.2002194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.47" N, 33 deg 8' 18.86" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/4A20F8F7-932C-402A-B47B-71E20B1FC743.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/4A20F8F7-932C-402A-B47B-71E20B1FC743.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/4A20F8F7-932C-402A-B47B-71E20B1FC743.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1385722222222, 47.2015194444445</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.17" N, 33 deg 7' 50.72" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/75BE126F-89FD-4421-8590-4FC4C2CCA8CD.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307555555556, 47.200325</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.25" N, 33 deg 7' 51.62" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/64179DD8-5803-4D66-9013-8538ABA7727D.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310055555556, 47.2003472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.86" N, 33 deg 8' 19.78" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/E1ED8ED1-DEB5-48D9-AB68-6EEDF5ECD54B.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1388277777778, 47.2005166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.89" N, 33 deg 8' 20.12" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7E19DAA3-9E8F-4843-92C4-15A4562EFC65.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1389222222222, 47.2013583333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 8.09" N, 33 deg 8' 21.94" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/51669E6E-B8B2-4CCD-B16A-4ACC3F7DB4A1.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1394277777778, 47.2022472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.73" N, 33 deg 8' 20.66" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A127A32A-CE20-46FC-BFB3-A89B4A6673FA.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1390722222222, 47.2013138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.89" N, 33 deg 7' 50.65" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B66D8927-B0F2-4860-AFB2-EDEA460C91A9.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307361111111, 47.2002472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.73" N, 33 deg 8' 20.86" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/0DDD4EDB-5143-41E8-962C-C872D120D922.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1391277777778, 47.2013138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.19" N, 33 deg 7' 51.05" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/085FA939-8721-4A26-A65C-9ED3D1ABB4DB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308472222222, 47.2003305555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.77" N, 33 deg 8' 20.62" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/0A870A00-C29C-4BF7-9E1D-600040513076.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/0A870A00-C29C-4BF7-9E1D-600040513076.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/0A870A00-C29C-4BF7-9E1D-600040513076.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1390611111111, 47.201325</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.34" N, 33 deg 7' 51.23" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1D277373-B3FB-415D-B970-87DF1194EA41.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/1D277373-B3FB-415D-B970-87DF1194EA41.jpg"><img width=450 height=337.5 src="https://www.bluestarsunflower.org/uxo/1D277373-B3FB-415D-B970-87DF1194EA41.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1308972222222, 47.2003722222222</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.19" N, 33 deg 8' 22.98" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8C57E152-7138-479C-A07F-DDE4274A89B9.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1397166666667, 47.2011638888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.40" N, 33 deg 8' 21.32" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/6C2842A8-004A-4673-95FF-6E044E06C2FF.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/6C2842A8-004A-4673-95FF-6E044E06C2FF.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/6C2842A8-004A-4673-95FF-6E044E06C2FF.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1392555555556, 47.2009444444444</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.87" N, 33 deg 7' 50.38" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9708B181-7ECA-4B80-BC18-E217F69B3D77.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306611111111, 47.2002416666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.13" N, 33 deg 7' 51.76" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/37B5F2D3-1F52-4C30-8EA1-E5BC98C1E0B0.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310444444444, 47.2003138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.28" N, 33 deg 7' 51.95" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C38B41CD-443B-46F2-B997-D6F8A5CFD2F4.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310972222222, 47.2003555555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.78" N, 33 deg 8' 17.97" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/27D3F1AF-FEA0-4B6C-8BDB-E04246069816.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/27D3F1AF-FEA0-4B6C-8BDB-E04246069816.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/27D3F1AF-FEA0-4B6C-8BDB-E04246069816.jpg"></a>]]></description>
       <Point>
         <coordinates>33.138325, 47.2013277777778</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.23" N, 33 deg 7' 51.35" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8E57FCCA-B83B-4D9E-8701-51EFD6B39DE0.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1309305555556, 47.2003416666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.27" N, 33 deg 7' 51.78" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A9229173-337D-4BA2-85CD-6AADE78F383E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.13105, 47.2003527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.73" N, 33 deg 8' 21.70" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9455DF8E-BDDB-4E42-85B0-7D5BE06FAE03.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393611111111, 47.2007583333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.72" N, 33 deg 8' 19.97" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B2CE2932-0B1A-4D89-B019-90959D7F3339.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1388805555556, 47.2013111111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.30" N, 33 deg 8' 21.12" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7472F010-74F5-4757-BE46-ABD52522B957.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392, 47.2009166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.00" N, 33 deg 7' 50.40" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/29CC801F-7D7E-4FC4-893E-F87448C3929A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306666666667, 47.2002777777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.89" N, 33 deg 7' 50.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/EC669C8B-CAD3-4E66-BE77-D87564D25F2A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307083333333, 47.2002472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.34" N, 33 deg 8' 21.35" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B0B09E4E-7CDA-40E9-8A9D-459B8C93ED76.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392638888889, 47.2009277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.19" N, 33 deg 7' 51.01" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9167F65F-70D6-4D2F-8FC9-F63DF30C3346.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308361111111, 47.2003305555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.89" N, 33 deg 7' 50.69" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B430B363-D983-4A37-9DC1-B1C17C8956AE.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1307472222222, 47.2002472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.37" N, 33 deg 8' 21.09" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C1CF0F97-DF23-4775-9D7E-48FEFD258ED8.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1391916666667, 47.2009361111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.12" N, 33 deg 7' 50.36" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/DC1CF313-4129-4147-9AE4-AF63F6D07207.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306555555556, 47.2003111111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.89" N, 33 deg 8' 17.88" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/5E2879E3-3B84-455F-9915-5AF8D090A075.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1383, 47.2013583333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.99" N, 33 deg 8' 19.03" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/F1F34E3E-1A3B-4303-A9C5-85827CFA3042.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386194444444, 47.2005527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.06" N, 33 deg 7' 51.01" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/BBF1508F-70FE-4A61-BFDA-074AB7079FB6.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308361111111, 47.2002944444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.25" N, 33 deg 8' 22.51" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/AC3573ED-0198-4FEF-AA0D-75F086DBCAE8.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395861111111, 47.2011805555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.14" N, 33 deg 8' 22.60" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/039EDDAC-9C78-4176-BD67-E7CF451C4CDA.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1396111111111, 47.20115</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.07" N, 33 deg 8' 19.26" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7E0952D5-C15C-44D7-93B6-58AADFD04D5E.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386833333333, 47.2008527777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.84" N, 33 deg 8' 20.17" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/2573495F-A7CC-40BD-B1E0-14A4999C2321.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1389361111111, 47.2013444444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.14" N, 33 deg 8' 16.62" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/76E46800-7C6E-4894-B57A-2F2B93F3159A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.13795, 47.2014277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 1' 43.01" N, 32 deg 31' 16.78" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9EB086B6-D364-4888-B54A-BEC6704653FD.jpg"></div>]]></description>
-      <Point>
-        <coordinates>32.5213277777778, 47.0286138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.23" N, 33 deg 7' 51.42" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/96763D96-A8B7-4FE4-9026-846521D9E4B1.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.13095, 47.2003416666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.20" N, 33 deg 8' 22.32" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7AEBFB07-73F1-42A4-81B8-3BBC3AB10807.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395333333333, 47.2011666666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.88" N, 33 deg 7' 49.31" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B98BD22A-536C-4B8A-8A93-25AD778B6B2A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1303638888889, 47.2002444444445</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.87" N, 33 deg 8' 19.56" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/BCE89692-0AE8-4E3D-8FB7-4EBB3185EFD4.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1387666666667, 47.2005194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 7.33" N, 33 deg 8' 21.03" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1B597BBA-3496-4937-B5F0-15C0E0CFF3F5.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/1B597BBA-3496-4937-B5F0-15C0E0CFF3F5.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/1B597BBA-3496-4937-B5F0-15C0E0CFF3F5.jpg"></a>]]></description>
       <Point>
         <coordinates>33.139175, 47.2020361111111</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.83" N, 33 deg 8' 19.92" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1C7A155C-4471-4ED0-91B8-4B91073412EA.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1388666666667, 47.2013416666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.39" N, 33 deg 8' 21.51" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/73D32A5B-2D91-4179-9376-7DDF0718D924.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393083333333, 47.2009416666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.84" N, 33 deg 8' 21.64" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A5980DCA-97A0-40BB-8833-A1F3BC0E13D4.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393444444444, 47.2007888888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.09" N, 33 deg 8' 22.39" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C9BEF9BF-5C2F-4EE4-9E13-E9C4A7662D1F.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395527777778, 47.2011361111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.68" N, 33 deg 8' 20.25" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/27BCFAE3-ED04-4915-A364-3B55B9FFE073.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1389583333333, 47.2013</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.04" N, 33 deg 8' 22.42" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C003E368-974E-4237-9D7B-5B0298B20572.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395611111111, 47.2011222222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.12" N, 33 deg 7' 50.25" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/919F9A63-448C-4D84-BF66-E3FE78F79C72.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.130625, 47.2003111111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.14" N, 33 deg 8' 22.35" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/9B722874-15C3-4DD5-A1AC-F101857863B8.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1395416666667, 47.20115</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.78" N, 33 deg 8' 19.95" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7A0EF8E5-CB58-4623-8CB8-B55FEEF0B1B6.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/7A0EF8E5-CB58-4623-8CB8-B55FEEF0B1B6.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/7A0EF8E5-CB58-4623-8CB8-B55FEEF0B1B6.jpg"></a>]]></description>
       <Point>
         <coordinates>33.138875, 47.2013277777778</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.13" N, 33 deg 7' 50.46" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B77BC7E3-7064-425A-8E49-8B110172B690.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306833333333, 47.2003138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.78" N, 33 deg 7' 49.48" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/6E5FFA90-C644-43E1-B2DF-D03D691CC1CC.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1304111111111, 47.2002166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.85" N, 33 deg 8' 20.79" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/6F768A14-4C80-4E21-8C48-A3DF04DF6453.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/6F768A14-4C80-4E21-8C48-A3DF04DF6453.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/6F768A14-4C80-4E21-8C48-A3DF04DF6453.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1391083333333, 47.2013472222222</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.95" N, 33 deg 8' 19.33" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C4699F57-D8E1-4375-80A4-40D31E731947.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1387027777778, 47.2008194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.92" N, 33 deg 8' 19.52" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8EFC75DA-B83F-4FD1-84CD-ED1C6B8EABF5.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/8EFC75DA-B83F-4FD1-84CD-ED1C6B8EABF5.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/8EFC75DA-B83F-4FD1-84CD-ED1C6B8EABF5.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1387555555556, 47.2005333333333</coordinates>
       </Point>
     </Placemark>
     
     <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.71" N, 33 deg 8' 20.23" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1561ABC6-EBB6-4C44-95EB-1C41B7B900DF.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1389527777778, 47.2013083333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.38" N, 33 deg 7' 51.52" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/85BB4F45-D4EC-4A41-9324-7C6F41AD57FB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1309777777778, 47.2003833333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 6.39" N, 33 deg 8' 20.81" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C97E3395-C451-441D-9BA2-09F121D9AF28.jpg"></div>]]></description>
+      <name>Hazard</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/C97E3395-C451-441D-9BA2-09F121D9AF28.jpg"><img width=450 height=300 src="https://www.bluestarsunflower.org/uxo/C97E3395-C451-441D-9BA2-09F121D9AF28.jpg"></a>]]></description>
       <Point>
         <coordinates>33.1391138888889, 47.201775</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.96" N, 33 deg 8' 19.07" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/352A57C2-6960-4222-B32C-53B4DFD09197.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386305555556, 47.2005444444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.08" N, 33 deg 7' 51.20" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B9AD9ED0-7C09-49C9-8985-FD6446E51F20.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1308888888889, 47.2003</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.98" N, 33 deg 8' 19.25" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/C9A6CB40-750A-4A38-90F0-24988DA71C0C.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1386805555556, 47.20055</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.11" N, 33 deg 7' 51.57" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/1827A1BA-BCAC-483E-94BA-125164E72ECE.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1309916666667, 47.2003083333333</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.89" N, 33 deg 7' 49.41" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/0C450195-4088-4F87-9993-7891E639D70C.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1303916666667, 47.2002472222222</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.95" N, 33 deg 8' 21.56" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8941F0A4-9A3C-49E7-A6D5-ABC0ADD75627.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393222222222, 47.2008194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 2.90" N, 33 deg 8' 21.60" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/5F803A7D-4F44-4202-8BF7-398FD93D7FC6.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1393333333333, 47.2008055555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.78" N, 33 deg 8' 20.20" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A5B47CF0-D710-495C-BEDA-0606C84A7D54.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1389444444444, 47.2013277777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.44" N, 33 deg 8' 21.28" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/CC460F0B-0BBF-4671-BA25-94CDE6589052.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392444444444, 47.2009555555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.38" N, 33 deg 8' 18.71" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/EA70F9A7-CCF1-418A-BEA4-7C5FD440E434.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1385305555556, 47.2014944444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.12" N, 33 deg 7' 51.67" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/F58DC7F4-C47A-43E9-B7B1-21720A1F737A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310194444444, 47.2003111111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.90" N, 33 deg 8' 20.55" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/A3D1FCE0-5A69-4810-8D90-39140D5D55CB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1390416666667, 47.2013611111111</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.00" N, 33 deg 7' 50.49" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/FAB5C9E1-F9D9-4150-A3EA-22A68FD17122.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1306916666667, 47.2002777777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 3.20" N, 33 deg 8' 21.19" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/7BE9809D-B544-4ABD-BBCE-017C3550F069.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1392194444444, 47.2008888888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.41" N, 33 deg 8' 18.67" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B8DC0B85-44A6-4E46-818B-03423F6E9434.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1385194444444, 47.2015027777778</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 6.55" N, 33 deg 8' 20.98" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/D7EC8F66-290B-4246-8435-7C7613060BEB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1391611111111, 47.2018194444444</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.79" N, 33 deg 8' 20.82" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/F97592E0-1412-4C94-B814-366E4A3022B0.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1391166666667, 47.2013305555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.86" N, 33 deg 8' 19.34" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/520E057D-6C59-4696-86CB-F90A1EEDF9B6.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1387055555556, 47.2005166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.92" N, 33 deg 7' 49.61" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/8F995F0F-3F5A-4331-8EB5-898622859D47.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1304472222222, 47.2002555555556</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 1.14" N, 33 deg 7' 51.85" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/0416A41B-8BCE-4C67-8543-9041518C0BFB.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1310694444444, 47.2003166666667</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 5.31" N, 33 deg 8' 16.52" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/BEC48F1C-B0CE-4600-85AD-B93852B9F58A.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1379222222222, 47.201475</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.77" N, 33 deg 7' 49.39" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/B2CE0FCC-3A0B-4557-82D6-4AC7C21395B1.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1303861111111, 47.2002138888889</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 0.88" N, 33 deg 7' 49.22" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/77151F60-0A54-4329-B657-6F3A01DFBB59.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1303388888889, 47.2002444444445</coordinates>
-      </Point>
-    </Placemark>
-    
-    <Placemark>
-      <name>Possible UXO. 47 deg 12' 4.08" N, 33 deg 8' 22.62" E</name>
-      <description><![CDATA[<div ><img width=400 height=400 src="https://www.bluestarsunflower.org/uxo/20FCCA7D-EE0F-438B-BF2D-1B97E720895D.jpg"></div>]]></description>
-      <Point>
-        <coordinates>33.1396166666667, 47.2011333333333</coordinates>
       </Point>
     </Placemark>
     
