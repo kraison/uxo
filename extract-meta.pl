@@ -19,8 +19,10 @@ closedir($dh);
 
 my(@places);
 my $new_width = 450;
+my $i = 0;
 foreach my $file (@files) {
     if($file =~ /\.(jpg|JPG|jpeg)$/) {
+        ++$i;
         #print "$dir/$file\n\n";
         my $info = $exif_t->ImageInfo("$dir/$file");
 
@@ -39,7 +41,7 @@ foreach my $file (@files) {
         #my $lon = $$info{'GPSLongitude'};
 
         #print "$url/$file\t$lat\t$lon\n";
-        my $desc = "Hazard";
+        my $desc = "Hazard $i";
         push(@places, { URL => "$url/$file", COORDS => "$lon, $lat", NAME => $desc, HEIGHT => $new_height, WIDTH => $new_width });
 
 
