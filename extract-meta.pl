@@ -18,7 +18,7 @@ my @files = readdir($dh);
 closedir($dh);
 
 my(@places);
-my $new_width = 450;
+my $new_width = 350;
 my $i = 0;
 foreach my $file (@files) {
     if($file =~ /\.(jpg|JPG|jpeg)$/) {
