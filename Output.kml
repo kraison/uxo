@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    
+    <Placemark>
+      <name>Hazard 1</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0010.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0010.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5182083333333, 47.0299166666667</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 2</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0061.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0061.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5203527777778, 47.0301833333333</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 3</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0102.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0102.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5220638888889, 47.0303944444444</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 4</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0113.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0113.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5225277777778, 47.0304527777778</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 5</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0189.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0189.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.522375, 47.0304833333333</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 6</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0238.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0238.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5203166666667, 47.0302305555556</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 7</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0265.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0265.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5191888888889, 47.0300916666667</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 8</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0319.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0319.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5186472222222, 47.030075</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 9</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0347.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0347.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5198277777778, 47.0302222222222</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 10</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0389.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0389.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5215805555556, 47.0304416666667</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 11</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0418.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0418.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5228, 47.0305944444444</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 12</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0470.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0470.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5230583333333, 47.030675</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 13</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0501.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0501.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5217611111111, 47.0305138888889</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 14</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0534.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0534.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5203694444444, 47.0303444444444</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 15</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0584.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0584.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5183611111111, 47.0300944444444</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 16</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0610.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0610.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.51825, 47.0301333333333</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 17</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0652.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0652.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5200111111111, 47.03035</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 18</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0681.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0681.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5212277777778, 47.0305027777778</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 19</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0716.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0716.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5226944444444, 47.0306861111111</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 20</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0732.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0732.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5233638888889, 47.0307694444444</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 21</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0773.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0773.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5229055555556, 47.0307638888889</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 22</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0803.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0803.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.52165, 47.0306055555556</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 23</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0838.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0838.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5202222222222, 47.0304305555556</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 24</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0876.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0876.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.518625, 47.0302333333333</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 25</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0923.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0923.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5234583333333, 47.0305111111111</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Hazard 26</name>
+      <description><![CDATA[<a href="https://www.bluestarsunflower.org/uxo/DJI_0937.JPG"><img width=350 height=196.875 src="https://www.bluestarsunflower.org/uxo/DJI_0937.JPG"></a>]]></description>
+      <Point>
+        <coordinates>32.5240416666667, 47.0305861111111</coordinates>
+      </Point>
+    </Placemark>
+    
+  </Document>
+</kml>

@@ -52,5 +52,10 @@ foreach my $file (@files) {
         #print STDERR "\n";
     }
 }
+# Open or create output KML file
+open(my $fh, '>', "Output.kml") or die "Cannot open file: $!";
 $template->param(POINT => \@places);
-print $template->output;
+print $fh $template->output;
+# Close output file
+close($fh);
+
