@@ -12,6 +12,9 @@ use warnings;
 use GD;
 use Image::ExifTool;
 
+# Spoof GPD Offset
+my $gpsOffset = 0.05;
+
 # Input image file name
 my $input_image = 'input/input.jpg';
 
@@ -37,6 +40,11 @@ my $input_info = $exif_tool->ImageInfo($input_image);
 
 # Loop over all the metadata keys and prepare to copy them to the new images
 for my $key (keys %$input_info) {
+    #print "$key => $input_info->{$key}\n";
+    #print "---- \n";
+    #print "---- \n";
+    # Skip the GPS data as we will be setting that manually
+    next if ($key =~ m/^GPSLatitude|GPSLongitude|GPSPosition/);
     $exif_tool->SetNewValue($key => $input_info->{$key});
 }
 
@@ -48,9 +56,9 @@ while (my $file = readdir($dh)) {
     unlink "$dir/$file";
 }
 
+my $index = 0;
 for my $x (0, int($width - $new_width)) {
     for my $y (0, int($height - $new_height)) {
-        print "Cropping $x, $y...\n";
         # All the new images will be 70% of the original image
         my $new_image = GD::Image->new($new_width, $new_height);
         # $image->copy($sourceImage,$dstX,$dstY,$srcX,$srcY,$width,$height)
@@ -66,11 +74,116 @@ for my $x (0, int($width - $new_width)) {
         print $out $new_image->jpeg;
         close $out;
 
+        # Handle GPS data
+        for my $key (keys %$input_info) {
+            # Up Down
+            if ($key eq 'GPSLatitude') {
+                if ($input_info->{$key} =~ /(\d+) deg (\d+)' (\d+\.\d+)\" (\w+)/) {
+                    my $degrees = $1;
+                    my $minutes = $2;
+                    my $seconds = $3;
+                    my $direction = $4;
+
+                    # The first image will be the top left of the original image so move it up
+                    if ($index == 0) {
+                        $seconds += $gpsOffset;
+                    } elsif ($index == 1) {
+                        # The second image will be the bottom left of the original image so move it down
+                        $seconds -= $gpsOffset;
+                    } elsif ($index == 2) {
+                        # The third image will be the top right of the original image so move it up
+                        $seconds += $gpsOffset;
+                    } elsif ($index == 3) {
+                        # The fourth image will be the bottom right of the original image so move it down
+                        $seconds -= $gpsOffset;
+                    }
+
+                    # Convert back to original format
+                    my $edited = "$degrees deg $minutes' $seconds\" $direction";
+                    
+                    # Set the new value
+                    $exif_tool->SetNewValue($key => $edited, Protected => 1, Replace => 1);
+                }
+                next;
+            }
+            # Left Right
+            if ($key eq 'GPSLongitude') {
+                if ($input_info->{$key} =~ /(\d+) deg (\d+)' (\d+\.\d+)\" (\w+)/) {
+                    my $degrees = $1;
+                    my $minutes = $2;
+                    my $seconds = $3;
+                    my $direction = $4;
+
+                    # The first image will be the top left of the original image so move it left
+                    if ($index == 0) {
+                        $seconds -= $gpsOffset;
+                    } elsif ($index == 1) {
+                        # The second image will be the bottom left of the original image so move it left
+                        $seconds -= $gpsOffset;
+                    } elsif ($index == 2) {
+                        # The third image will be the top right of the original image so move it right
+                        $seconds += $gpsOffset;
+                    } elsif ($index == 3) {
+                        # The fourth image will be the bottom right of the original image so move it right
+                        $seconds += $gpsOffset;
+                    }
+
+                    # Convert back to original format
+                    my $edited = "$degrees deg $minutes' $seconds\" $direction";
+
+                    # Set the new value
+                    $exif_tool->SetNewValue($key => $edited, Protected => 1, Replace => 1);
+                }
+                next;
+            }
+            # Left Right
+            if ($key eq 'GPSPosition') {
+                if ($input_info->{$key} =~ /(\d+) deg (\d+)' (\d+\.\d+)\" (\w+), (\d+) deg (\d+)' (\d+\.\d+)\" (\w+)/) {
+                my $lat_degrees = $1;
+                my $lat_minutes = $2;
+                my $lat_seconds = $3;
+                my $lat_direction = $4;
+
+                my $long_degrees = $5;
+                my $long_minutes = $6;
+                my $long_seconds = $7;
+                my $long_direction = $8;
+
+                # Mirror what we are doing above
+                if ($index == 0) {
+                    $lat_seconds += $gpsOffset;
+                    $long_seconds -= $gpsOffset;
+                } elsif ($index == 1) {
+                    $lat_seconds -= $gpsOffset;
+                    $long_seconds -= $gpsOffset;
+                } elsif ($index == 2) {
+                    $lat_seconds += $gpsOffset;
+                    $long_seconds += $gpsOffset;
+                } elsif ($index == 3) {
+                    $lat_seconds -= $gpsOffset;
+                    $long_seconds += $gpsOffset;
+                }
+
+                # Convert back to original format
+                my $edited = "$lat_degrees deg $lat_minutes' $lat_seconds\" $lat_direction, $long_degrees deg $long_minutes' $long_seconds\" $long_direction";
+                
+                # Set the new value
+                $exif_tool->SetNewValue($key => $edited, Protected => 1, Replace => 1);
+                } else {
+                    print "Format not recognized.\n";
+                }
+                next;
+            }
+        }
+        #
+
         # Write the metadata to the temporary file taking into account our new set values
         $exif_tool->WriteInfo($temp_file, "output/${x}_${y}.jpg");
 
         # Delete the temporary file
         unlink $temp_file;
+
+        $index += 1;
     }
 }
 print "Images cropped successfully!\n";
