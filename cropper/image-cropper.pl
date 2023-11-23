@@ -13,7 +13,8 @@ use GD;
 use Image::ExifTool;
 
 # Spoof GPD Offset
-my $gpsOffset = 0.05;
+my $gpsOffsetLat = 0.035; # Lat changes in greatter increments than lon ( keep this a bit smaller than lon )
+my $gpsOffsetLon = 0.04; # Lon changes in smaller increments than lat
 
 # Input image file name
 my $input_image = 'input/input.jpg';
@@ -86,16 +87,16 @@ for my $x (0, int($width - $new_width)) {
 
                     # The first image will be the top left of the original image so move it up
                     if ($index == 0) {
-                        $seconds += $gpsOffset;
+                        $seconds += $gpsOffsetLat;
                     } elsif ($index == 1) {
                         # The second image will be the bottom left of the original image so move it down
-                        $seconds -= $gpsOffset;
+                        $seconds -= $gpsOffsetLat;
                     } elsif ($index == 2) {
                         # The third image will be the top right of the original image so move it up
-                        $seconds += $gpsOffset;
+                        $seconds += $gpsOffsetLat;
                     } elsif ($index == 3) {
                         # The fourth image will be the bottom right of the original image so move it down
-                        $seconds -= $gpsOffset;
+                        $seconds -= $gpsOffsetLat;
                     }
 
                     # Convert back to original format
@@ -116,16 +117,16 @@ for my $x (0, int($width - $new_width)) {
 
                     # The first image will be the top left of the original image so move it left
                     if ($index == 0) {
-                        $seconds -= $gpsOffset;
+                        $seconds -= $gpsOffsetLon;
                     } elsif ($index == 1) {
                         # The second image will be the bottom left of the original image so move it left
-                        $seconds -= $gpsOffset;
+                        $seconds -= $gpsOffsetLon;
                     } elsif ($index == 2) {
                         # The third image will be the top right of the original image so move it right
-                        $seconds += $gpsOffset;
+                        $seconds += $gpsOffsetLon;
                     } elsif ($index == 3) {
                         # The fourth image will be the bottom right of the original image so move it right
-                        $seconds += $gpsOffset;
+                        $seconds += $gpsOffsetLon;
                     }
 
                     # Convert back to original format
@@ -151,17 +152,17 @@ for my $x (0, int($width - $new_width)) {
 
                 # Mirror what we are doing above
                 if ($index == 0) {
-                    $lat_seconds += $gpsOffset;
-                    $long_seconds -= $gpsOffset;
+                    $lat_seconds += $gpsOffsetLat;
+                    $long_seconds -= $gpsOffsetLon;
                 } elsif ($index == 1) {
-                    $lat_seconds -= $gpsOffset;
-                    $long_seconds -= $gpsOffset;
+                    $lat_seconds -= $gpsOffsetLat;
+                    $long_seconds -= $gpsOffsetLon;
                 } elsif ($index == 2) {
-                    $lat_seconds += $gpsOffset;
-                    $long_seconds += $gpsOffset;
+                    $lat_seconds += $gpsOffsetLat;
+                    $long_seconds += $gpsOffsetLon;
                 } elsif ($index == 3) {
-                    $lat_seconds -= $gpsOffset;
-                    $long_seconds += $gpsOffset;
+                    $lat_seconds -= $gpsOffsetLat;
+                    $long_seconds += $gpsOffsetLon;
                 }
 
                 # Convert back to original format
