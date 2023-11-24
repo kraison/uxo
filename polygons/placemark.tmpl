@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+<Placemark> 
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+<TMPL_VAR NAME=MINLON>,<TMPL_VAR NAME=MAXLAT>,0
+<TMPL_VAR NAME=MINLON>,<TMPL_VAR NAME=MINLAT>,0
+<TMPL_VAR NAME=MAXLON>,<TMPL_VAR NAME=MINLAT>,0
+<TMPL_VAR NAME=MAXLON>,<TMPL_VAR NAME=MAXLAT>,0
+<TMPL_VAR NAME=MINLON>,<TMPL_VAR NAME=MAXLAT>,0
+</coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ 
+ <Style> 
+  <PolyStyle>  
+   <color>#a00000ff</color>
+  <outline>1</outline>
+  </PolyStyle> 
+ </Style>
+</Placemark>
+
+<Placemark> 
+ <Polygon> <outerBoundaryIs>  <LinearRing>  
+  <coordinates>
+<TMPL_VAR NAME=LON1>,<TMPL_VAR NAME=LAT1>,0
+<TMPL_VAR NAME=LON2>,<TMPL_VAR NAME=LAT2>,0
+<TMPL_VAR NAME=LON4>,<TMPL_VAR NAME=LAT4>,0
+<TMPL_VAR NAME=LON3>,<TMPL_VAR NAME=LAT3>,0
+<TMPL_VAR NAME=LON1>,<TMPL_VAR NAME=LAT1>,0
+</coordinates>
+ </LinearRing> </outerBoundaryIs> </Polygon>
+ 
+ <Style> 
+  <PolyStyle>  
+   <color>#a000ff00</color>
+  <outline>1</outline>
+  </PolyStyle> 
+ </Style>
+</Placemark>
+
+<Placemark>
+  <Point>
+    <name>Point 1</name>
+    <coordinates><TMPL_VAR NAME=LON1>,<TMPL_VAR NAME=LAT1>,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <Point>
+    <name>Point 2</name>
+    <coordinates><TMPL_VAR NAME=LON2>,<TMPL_VAR NAME=LAT2>,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <Point>
+    <name>Point 3</name>
+    <coordinates><TMPL_VAR NAME=LON3>,<TMPL_VAR NAME=LAT3>,0</coordinates>
+  </Point>
+</Placemark>
+
+<Placemark>
+  <Point>
+    <name>Point 4</name>
+    <coordinates><TMPL_VAR NAME=LON4>,<TMPL_VAR NAME=LAT4>,0</coordinates>
+  </Point>
+</Placemark>
+
+
+  </Document>
+</kml>
+
